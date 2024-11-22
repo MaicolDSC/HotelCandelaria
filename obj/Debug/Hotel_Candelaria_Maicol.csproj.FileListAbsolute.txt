@@ -1,0 +1,14 @@
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\bin\Debug\Hotel_Candelaria_Maicol.exe.config
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\bin\Debug\Hotel_Candelaria_Maicol.exe
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\bin\Debug\Hotel_Candelaria_Maicol.pdb
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.exe
+C:\Users\maico\Desktop\Programas\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.pdb
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\bin\Debug\Hotel_Candelaria_Maicol.exe.config
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\bin\Debug\Hotel_Candelaria_Maicol.exe
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\bin\Debug\Hotel_Candelaria_Maicol.pdb
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.exe
+C:\Users\maico\Desktop\C#\Hotel_Candelaria_Maicol\obj\Debug\Hotel_Candelaria_Maicol.pdb
